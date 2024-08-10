@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pagina_Admin.BW\Pagina_Admin.BW.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Acciones\" />
+    <Folder Include="Contexto\" />
+  </ItemGroup>
+
+</Project>

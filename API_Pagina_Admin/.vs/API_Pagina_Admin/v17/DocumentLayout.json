@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\API_Pagina_Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571E48E4-A119-41E2-85DE-C8299B9EB91C}|..\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj|c:\\developer_backend_admin\\api_pagina_admin\\pagina_admin.da\\entidades\\empleadoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571E48E4-A119-41E2-85DE-C8299B9EB91C}|..\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj|c:\\developer_backend_admin\\api_pagina_admin\\pagina_admin.da\\entidades\\mesada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571E48E4-A119-41E2-85DE-C8299B9EB91C}|..\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj|c:\\developer_backend_admin\\api_pagina_admin\\pagina_admin.da\\entidades\\menuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571E48E4-A119-41E2-85DE-C8299B9EB91C}|..\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj|c:\\developer_backend_admin\\api_pagina_admin\\pagina_admin.da\\pagina_admin.da.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107B1AE-E336-4B1C-A7C0-F389A26EEDD1}|API_Pagina_Admin.csproj|c:\\developer_backend_admin\\api_pagina_admin\\api_pagina_admin\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E107B1AE-E336-4B1C-A7C0-F389A26EEDD1}|API_Pagina_Admin.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoDA.cs",
+              "DocumentMoniker": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Entidades\\EmpleadoDA.cs",
+              "RelativeDocumentMoniker": "..\\Pagina_Admin.DA\\Entidades\\EmpleadoDA.cs",
+              "ToolTip": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Entidades\\EmpleadoDA.cs",
+              "RelativeToolTip": "..\\Pagina_Admin.DA\\Entidades\\EmpleadoDA.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:32:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuDA.cs",
+              "DocumentMoniker": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Entidades\\MenuDA.cs",
+              "RelativeDocumentMoniker": "..\\Pagina_Admin.DA\\Entidades\\MenuDA.cs",
+              "ToolTip": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Entidades\\MenuDA.cs",
+              "RelativeToolTip": "..\\Pagina_Admin.DA\\Entidades\\MenuDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:31:25.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MesaDA.cs",
+              "DocumentMoniker": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Entidades\\MesaDA.cs",
+              "RelativeDocumentMoniker": "..\\Pagina_Admin.DA\\Entidades\\MesaDA.cs",
+              "ToolTip": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Entidades\\MesaDA.cs",
+              "RelativeToolTip": "..\\Pagina_Admin.DA\\Entidades\\MesaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:30:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagina_Admin.DA",
+              "DocumentMoniker": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj",
+              "RelativeDocumentMoniker": "..\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj",
+              "ToolTip": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj",
+              "RelativeToolTip": "..\\Pagina_Admin.DA\\Pagina_Admin.DA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T03:30:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\API_Pagina_Admin\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Developer_Backend_Admin\\API_Pagina_Admin\\API_Pagina_Admin\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-10T03:28:59.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
